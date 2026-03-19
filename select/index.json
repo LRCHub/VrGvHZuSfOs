@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "DAYBREAK FRONTLINE",
   "base_artist": "ウォルピスカーター",
-  "createdAt": "2025-12-25T19:34:15.507939Z",
+  "createdAt": "2026-03-19T13:12:47.352406Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -139,6 +139,110 @@
       "artist": "麻婆豆腐",
       "has_synced": true,
       "path": "select/17_DAYBREAK_FRONTLINE_麻婆豆腐.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Daybreak - Single Version",
+      "artist": "Harry Nilsson",
+      "has_synced": true,
+      "path": "select/18_Daybreak_-_Single_Version_Harry_Nilsson.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Daybreak (single version)",
+      "artist": "Harry Nilsson",
+      "has_synced": true,
+      "path": "select/19_Daybreak_(single_version)_Harry_Nilsson.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Daybreak",
+      "artist": "DevilDriver",
+      "has_synced": true,
+      "path": "select/20_Daybreak_DevilDriver.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Daybreak",
+      "artist": "The Stone Roses",
+      "has_synced": true,
+      "path": "select/21_Daybreak_The_Stone_Roses.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Daybreak",
+      "artist": "Air Supply",
+      "has_synced": true,
+      "path": "select/22_Daybreak_Air_Supply.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Daybreak\\'s Bell",
+      "artist": "L\\'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/23_Daybreak_'s_Bell_L_'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Daybreak",
+      "artist": "Barry Manilow",
+      "has_synced": true,
+      "path": "select/24_Daybreak_Barry_Manilow.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Daybreak",
+      "artist": "Architects",
+      "has_synced": true,
+      "path": "select/25_Daybreak_Architects.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Short Of Daybreak",
+      "artist": "Underoath",
+      "has_synced": true,
+      "path": "select/26_Short_Of_Daybreak_Underoath.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Daybreak (\"The Man\" Performed at Concertgebouw, Amsterdam, 17 September 1969) [Live]",
+      "artist": "Pink Floyd",
+      "has_synced": false,
+      "path": "select/27_Daybreak_(_The_Man__Performed_at_Concertgebouw,_Amsterdam,_17_September_1969)_[L_Pink_Floyd.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Daybreak (\"The Man\" Performed at Concertgebouw, Amsterdam, 17 September 1969)",
+      "artist": "Pink Floyd",
+      "has_synced": false,
+      "path": "select/28_Daybreak_(_The_Man__Performed_at_Concertgebouw,_Amsterdam,_17_September_1969)_Pink_Floyd.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Daybreak",
+      "artist": "Tony Bennett",
+      "has_synced": false,
+      "path": "select/29_Daybreak_Tony_Bennett.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Daybreak (The Man Performed at Concertgebouw, Amsterdam, 17 September 1969) (Live)",
+      "artist": "Pink Floyd",
+      "has_synced": true,
+      "path": "select/30_Daybreak_(The_Man_Performed_at_Concertgebouw,_Amsterdam,_17_September_1969)_(Liv_Pink_Floyd.lrc"
     },
     {
       "id": "petitlyrics_1",
